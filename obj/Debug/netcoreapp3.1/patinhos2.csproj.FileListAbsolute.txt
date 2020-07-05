@@ -1,0 +1,11 @@
+C:\Users\Maria Luiza\Desktop\Luiza\patinhos2\patinhos2\obj\Debug\netcoreapp3.1\patinhos2.csprojAssemblyReference.cache
+C:\Users\Maria Luiza\Desktop\Luiza\patinhos2\patinhos2\obj\Debug\netcoreapp3.1\patinhos2.AssemblyInfoInputs.cache
+C:\Users\Maria Luiza\Desktop\Luiza\patinhos2\patinhos2\obj\Debug\netcoreapp3.1\patinhos2.AssemblyInfo.cs
+C:\Users\Maria Luiza\Desktop\Luiza\patinhos2\patinhos2\bin\Debug\netcoreapp3.1\patinhos2.exe
+C:\Users\Maria Luiza\Desktop\Luiza\patinhos2\patinhos2\bin\Debug\netcoreapp3.1\patinhos2.deps.json
+C:\Users\Maria Luiza\Desktop\Luiza\patinhos2\patinhos2\bin\Debug\netcoreapp3.1\patinhos2.runtimeconfig.json
+C:\Users\Maria Luiza\Desktop\Luiza\patinhos2\patinhos2\bin\Debug\netcoreapp3.1\patinhos2.runtimeconfig.dev.json
+C:\Users\Maria Luiza\Desktop\Luiza\patinhos2\patinhos2\bin\Debug\netcoreapp3.1\patinhos2.dll
+C:\Users\Maria Luiza\Desktop\Luiza\patinhos2\patinhos2\bin\Debug\netcoreapp3.1\patinhos2.pdb
+C:\Users\Maria Luiza\Desktop\Luiza\patinhos2\patinhos2\obj\Debug\netcoreapp3.1\patinhos2.dll
+C:\Users\Maria Luiza\Desktop\Luiza\patinhos2\patinhos2\obj\Debug\netcoreapp3.1\patinhos2.pdb
